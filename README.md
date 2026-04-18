@@ -1,5 +1,7 @@
 # ETH Logs Visualizer
 
+![ETH Logs Visualizer Banner](./banner.jpeg)
+
 Live Ethereum mainnet log stream built with Bun, Vite, React, wagmi, viem, and WhatsABI.
 
 ## Features
